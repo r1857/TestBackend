@@ -1,0 +1,37 @@
+# Node.js bağımlılıkları
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ortam değişkenleri
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Derleme ve çıkış dosyaları
+dist/
+build/
+coverage/
+
+# IDE ve editör dosyaları
+.DS_Store
+.vscode/
+.idea/
+
+# Log dosyaları
+logs/
+*.log
+debug.log
+
+# Tür dosyaları (TypeScript için)
+*.tsbuildinfo
+
+# Platforma özgü dosyalar
+Thumbs.db
